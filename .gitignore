@@ -1,1 +1,4 @@
 .ipynb_checkpoints/
+cig_ps/
+*.pth
+*.h5
